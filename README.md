@@ -1,6 +1,7 @@
 cat
-The best tool for Traffic load Attacks
 
+The best tool for Traffic load Attacks
+- - -
 Simulates Layer 4  and Layer 7  traffic at high scale.
 Supports SOCKS5 and HTTP proxy chaining.
  usable on Linux, Termux, and iSH.
@@ -45,7 +46,7 @@ sh setup.py
 python3 cat.py
 - - -
 Download Commands (ISH Shell)
-- - -
+
 apk add git 
 
 git clone https://github.com/GR1M-swat/CatC2
