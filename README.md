@@ -33,9 +33,10 @@ tlsvip
 
 -
 Download Commands (Termux/Linux)
+
 pkg install git
 
-git clone https://github.com/lemonlime33/cat
+git clone https://github.com/GR1M-swat/CatC2
 
 cd cat
 
@@ -44,10 +45,10 @@ sh setup.py
 python3 cat.py
  
 Download Commands (ISH Shell)
-  
+"  
 apk add git 
 
-git clone https://github.com/lemonlime33/cat
+git clone https://github.com/GR1M-swat/CatC2
 
 cd cat
 
@@ -57,7 +58,7 @@ python3 cat.py
 
  
 -
-
+"
 To get  more powerful methods contact lemonaidd (TikTok:sql1337) or use free passkey
 Note: youll get a passkey at the end of setup     (dont lose)
 
