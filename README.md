@@ -39,7 +39,7 @@ pkg install git
 
 git clone https://github.com/GR1M-swat/CatC2
 
-cd cat
+cd CatC2
 
 sh setup.py
 
@@ -51,7 +51,7 @@ apk add git
 
 git clone https://github.com/GR1M-swat/CatC2
 
-cd cat
+cd CatC2
 
 sh setup.py
 
